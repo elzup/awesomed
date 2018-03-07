@@ -11,7 +11,6 @@ Tools and services I depend
 * [Kap](https://getkap.co/) - Gif, movie recorder.
 * [Frantz](https://meetfranz.com/) - Chat manager.
 * [Display Menu](http://displaymenu.milchimgemuesefach.de/) - Manage display resolutions, refresh rates.
-* [Display Menu](http://displaymenu.milchimgemuesefach.de/) - Manage display resolutions, refresh rates.
 
 
 ## Network
