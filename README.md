@@ -40,4 +40,4 @@ Tools and services I depend
 
 
 ## Like
-* [Tumblr]() - Web style.
+* [Tumblr](tumblr.com) - Web style.
